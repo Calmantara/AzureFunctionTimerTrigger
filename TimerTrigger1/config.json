@@ -1,0 +1,16 @@
+{
+	"database": {
+		"host": "postgres_host",
+		"port": 5432,
+		"user": "postgres_username",
+		"password": "postgres_password",
+		"database": "",
+		"ssl": true
+	},
+	"eventhub": {
+		"connectionString": "connection string",
+		"eventHubName": "eventHubName",
+		"consumerGroup": "consumergroup"
+	},
+	"partitionId": 0
+}
